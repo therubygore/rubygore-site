@@ -1,0 +1,299 @@
+{
+  "faqQuestions": [
+    {
+      "id": 1,
+      "question": "How much will my tattoo cost?",
+      "answer": "Pricing depends on the size, complexity, placement, and detail of your design. I charge $200/hour, and most tattoos are completed in 4–6 hour sessions. During your consultation, we'll talk through your design and create a clear plan so you know exactly what to expect."
+    },
+    {
+      "id": 2,
+      "question": "How many sessions will I need?",
+      "answer": "Smaller pieces are often completed in a single session, while larger or highly detailed tattoos (like sleeves or back pieces) may take multiple sessions. In your consultation, I'll provide a time estimate and help you plan a schedule that works for you."
+    },
+    {
+      "id": 3,
+      "question": "How do deposits work?",
+      "answer": "A $200 deposit secures your booking and goes toward your final cost. Deposits are non-refundable but can be transferred if you reschedule with adequate notice. I'll explain all details before you book so you feel confident moving forward."
+    },
+    {
+      "id": 4,
+      "question": "Can I finance my tattoo?",
+      "answer": "Yes! I offer a phased approach, where large-scale work is completed over multiple sessions, making it easier to spread out costs. If you're working within a specific budget, I'll help create a plan that works for you."
+    },
+    {
+      "id": 5,
+      "question": "How far out are you booked?",
+      "answer": "I typically book a few months in advance for large custom work. Smaller pieces may be scheduled sooner. During your consultation, I'll share my current availability and help secure a date that works for you."
+    },
+    {
+      "id": 6,
+      "question": "What happens after I place my deposit?",
+      "answer": "Once your spot is secured, I'll start sketching your custom design based on your ideas and inspiration. You'll receive guidance on preparation, healing, and aftercare before your session so you feel completely ready."
+    },
+    {
+      "id": 7,
+      "question": "How should I prepare for my tattoo session?",
+      "answer": "I'll provide a detailed prep guide after booking, but here are a few essentials:\n• Get a good night's rest and eat a full meal beforehand.\n• Stay hydrated and avoid alcohol or blood thinners.\n• Wear comfortable clothing that allows access to the area being tattooed.\n• Moisturize your skin leading up to the appointment, but avoid applying lotion on the day of your session."
+    },
+    {
+      "id": 8,
+      "question": "How do I care for my tattoo as it heals?",
+      "answer": "You'll receive personalized aftercare instructions before you leave the studio. In general, you'll need to:\n• Keep your tattoo clean and dry for the first few days.\n• Moisturize as directed, and avoid scratching or picking.\n• Stay out of pools, hot tubs, and direct sunlight until healed.\nIf you have any questions during healing, I'm just a message away."
+    },
+    {
+      "id": 9,
+      "question": "How do I book an appointment?",
+      "answer": "We recommend starting with reviewing our Booking Process to ensure it's a good fit before submitting an application request."
+    },
+    {
+      "id": 10,
+      "question": "Do I have to make an appointment to get tattooed?",
+      "answer": "Yes. Once your request has been received we will review your application, and if approved, you will be sent the next steps to move forward with booking."
+    },
+    {
+      "id": 11,
+      "question": "How soon can I get an appointment?",
+      "answer": "The current eta for clients on our waitlist will vary depending on when a deposit was initially placed, but wait time is typically around a year."
+    },
+    {
+      "id": 12,
+      "question": "Can I schedule an appointment with you even if I am not local?",
+      "answer": "Yes, when Ruby's books are open, she is happy to accept applications for all clients regardless of their location."
+    },
+    {
+      "id": 13,
+      "question": "How can I prepare for my appointment?",
+      "answer": "Even if you have been tattooed before, please be sure to thoroughly read through the Booking Process, Get Ready Guide, and our Policies as it contains a lot of important information that you are agreeing to by proceeding with booking. Reading through things carefully will set us up for success and prevent any avoidable setbacks or miscommunications. Please be sure to follow all guidelines fully and be sure to contact us if you still have any questions."
+    },
+    {
+      "id": 14,
+      "question": "How do consultations work?",
+      "answer": "We typically prefer to work via email throughout the booking process so we can make sure everything is in writing and in one place and we can gather all necessary information regarding your piece before confirming a date, especially for clients who are traveling from out of town. If needed, we will schedule time into your appointment for an in person consultation for you to meet with Ruby prior to your first appointment."
+    },
+    {
+      "id": 15,
+      "question": "How does the waitlist work?",
+      "answer": "Our waitlist was created to allow Ruby to continue receiving all submissions during times that her books are temporarily closed while prioritizing all applications that have already submitted a deposit first. The waitlist does not hold your place in line for a future date as we schedule bookings in small batches of 2-3 months at a time. When we ask you to submit a deposit you are agreeing to stay with us until we are ready to book your date. We assure you that while you are on the waitlist, we are working diligently to schedule everyone as quickly as we can while keeping the artist's health and work life balance in mind. We appreciate your patience and if you are looking to move your appointment up, we highly advise joining the Cancellation List as the fastest way to get in sooner and to check out our Travel page to see if we have any dates planned in your city. If you are uncomfortable being on the waitlist for an indefinite period of time and would like your deposit returned, please let us know so we can coordinate a refund. An admin fee of $15 will be deducted from the refund amount to cover payment processing fees for both the initial deposit and the refund processing fee from the payment processor. Please note that once a refund is issued, you will lose your place in line and would need to re-apply if you decide to move forward in the future again as we prioritize immediate upcoming appointment correspondence."
+    },
+    {
+      "id": 16,
+      "question": "How much is a deposit?",
+      "answer": "Current hourly/deposit rate by state/province:\nOregon - $200 USD\nPennsylvania - $200 USD\nNew York - $250 USD\nOntario - $200 CAD\nCalifornia - $200 USD\nPuerto Rico - $150 USD"
+    },
+    {
+      "id": 17,
+      "question": "What is included with my tattoo?",
+      "answer": "Ruby only tattoos one person per day, so as well as spending the day with Ruby, your appointment also includes the following:\n• Original artwork designed to fit your body\n• A one-on-one fine tuning consultation prior to your appointment\n• A relaxed environment focused only on you with no rush, as we only book one person a day\n• 100% Vegan procedure and aftercare products\n• Specialized numbing products that help most clients to sit comfortably during shading and color (applied after the initial linework)\n• Ample time after your appointment to ask any final questions, review aftercare and snap a professional photograph of your new piece\n• Free touch-ups"
+    },
+    {
+      "id": 18,
+      "question": "How are prices calculated?",
+      "answer": "Each client is scheduled for a full day with sessions that typically last anywhere between 4 and 8 hours. Pricing is calculated by the amount of time spent tattooing multiplied by Ruby's hourly rate of $200 at the end of each session.\n\nCheck out our Pricing & Estimates page to get a ballpark idea of how much to expect beforehand and check out what payment options we offer."
+    },
+    {
+      "id": 19,
+      "question": "What forms of payment are accepted at my appointment and when do I pay?",
+      "answer": "Payments are processed at an hourly rate at the end of each session. Deposits are included in the total price and will come off the cost of your tattoo at your last session.\n\nAccepted payment methods vary by country, cash is always preferred though.\nUnited States: Zelle, Venmo, PayPal, Cash\nCanada: PayPal, Cash\n\nPlease be sure to download the appropriate app to your phone and register your debit/credit/bank information prior to your appointment."
+    },
+    {
+      "id": 20,
+      "question": "How do touch ups work?",
+      "answer": "On tattoos that were executed originally by Ruby, you will never be charged for a touch-up, however tips and forms of gratuity are always appreciated. Please be sure to wait at least 1 month to let your tattoo heal fully before contacting us via email to schedule your touch-up. Please be sure to include a clear photo in your email so that Ruby can be prepared for with what will be needed at your touch-up appointment.\n\nRuby does not offer touch-ups on other artist's work, however if you are already in getting an original piece from her and it's a quick fix, she will likely be more than happy to accommodate you if you ask her nicely. :)"
+    },
+    {
+      "id": 21,
+      "question": "How much should I tip?",
+      "answer": "It's customary and appreciated (but never expected) to tip your artist if you're happy with your tattoo and the service you received during your appointment. A good tip is typically 15-20% of the total cost of your tattoo including deposit, similar to what you might leave in a restaurant, but any token of gratitude is appreciated."
+    },
+    {
+      "id": 22,
+      "question": "Can I bring my friend/family member to the appointment with me?",
+      "answer": "You are welcome to bring a guest, but we ask that you please limit it to one person."
+    },
+    {
+      "id": 23,
+      "question": "Can I bring my child to the appointment with me?",
+      "answer": "Legally you may not bring minors into a designated tattooing area within the building. Aside from the legality of it, while tattoo shops are fun places to be for adults they can be dangerous and inappropriate places for children. For their safety and for the consideration of others please arrange for their care while you are at your appointment."
+    },
+    {
+      "id": 24,
+      "question": "My appointment is coming up soon, can I see my artwork?",
+      "answer": "Ruby only tattoos one client per day and always plans to spend the entire day with each person no matter how big or small the tattoo is. She strives to give each person her undivided attention and the best experience possible. Because of this, you will see your tattoo design on the day of your appointment. If you require any minor changes to your design, you will be able to make them together before she begins tattooing you.\n\nRuby works best via email and we will request photos of the area you want tattooed prior to your appointment. (Please take a moment to review our Photo Taking Guide)\n\nIf you have any additions/changes/specific elements that you require in your design that you did not include in your original submission, please be sure to let us know at least a week in advance or when we reach out to you with your appointment reminder."
+    },
+    {
+      "id": 25,
+      "question": "Can I get tattooed if I am intoxicated?",
+      "answer": "You cannot. Not only is it illegal to tattoo anyone who is intoxicated, but getting tattooed while intoxicated negatively affects your decision making processes and could make your tattoo more painful."
+    },
+    {
+      "id": 26,
+      "question": "What if I have an appointment but I'm not feeling well?",
+      "answer": "Ruby will not take appointments with anyone who is sick, getting sick, not yet fully recovered from an illness, or contagious in any way. If this is the case we are happy to reschedule you. If you decide to show up to your appointment and you are ill or are showing any symptoms of illness, she will ask you to come back when you are better, so if you are not feeling well for any reason please stay home, rest up, and reschedule your appointment for when you are fully recovered."
+    },
+    {
+      "id": 27,
+      "question": "How long will it take and how long should I expect to be there?",
+      "answer": "Ruby only tattoos one person per day, so that she can give each client her undivided attention. Because of this, we suggest that you make arrangements so that you can spend the entire day with her regardless of what size your tattoo is. Please do not make any other plans.\n\nYou will have plenty of time allotted at the beginning of your appointment to discuss any minor tweaks or changes. Please keep in mind that it could take anywhere from 1-2 hours (or as long as it needs to) to begin, so we ask you to please be patient while Ruby makes adjustments so that she can fit the tattoo to your body perfectly.\n\nNote that you are not being charged when she is not tattooing you.\n\nIt is extremely difficult to give an exact time-frame for how long a tattoo session will go for, which is why Ruby charges by an hourly rate. However her body typically allows her to tattoo for no more than 4-6 hours per session. The 4-6 hours does not include set-up time, breaks and the time that she spends fitting the tattoo to you, which is why we set aside a whole day just for you.\n\nPlease keep in mind that Ruby will only ever tattoo at her very best, as she respects your body and the permanence of the art of tattooing. That being said, if she feels that you need to come back to finish your tattoo for whatever reason (she's human too!), we ask that you respect her decision and please do not pressure her to continue your session. Ruby will be back in your area soon, and will do her very best to leave your tattoo in a completed-looking stage until she returns if another session is necessary.\n\nIf you are concerned about how long your tattoo will take due to budget constraints, please be sure to mention this when submitting your appointment request and we will do the best that we can to accommodate you. This does not mean that Ruby will rush your tattoo, it does mean that we do our best to quote you a flat rate based on pre-approved parameters."
+    },
+    {
+      "id": 28,
+      "question": "Can I gift one of the sessions to someone else?",
+      "answer": "Yes — you can gift either the paid or the free session. However, only the person purchasing will receive the Founder's Club Package and lifetime perks."
+    },
+    {
+      "id": 29,
+      "question": "Can I purchase more than one package?",
+      "answer": "Yes. There's no limit on how many session packages you can purchase. Just remember: only the buyer receives the Founder's perks."
+    },
+    {
+      "id": 30,
+      "question": "What happens after I purchase?",
+      "answer": "You'll receive a confirmation email with everything you need — including a private scheduling link to book your first session, details about your Founder's Club perks, and what to expect leading up to your appointment. You'll also be able to reach out directly with any questions."
+    },
+    {
+      "id": 31,
+      "question": "I'm not in Portland, can I still sign up?",
+      "answer": "Yes, as long as you're able to travel for your appointments. All sessions must take place at Black Thorne Tattoo in Portland, OR. This offer doesn't apply to any other locations."
+    },
+    {
+      "id": 32,
+      "question": "Can I bring my own idea?",
+      "answer": "Absolutely. Every tattoo I create is custom, designed in collaboration with you and grounded in my style — botanical, floral, pet portraits, scar cover-ups, and illustrative realism. Sessions are one-on-one in a private space, created to help you feel safe, seen, and supported throughout the process."
+    },
+    {
+      "id": 33,
+      "question": "Do I need to use both sessions right away?",
+      "answer": "Not at all. You can schedule your sessions at your own pace — whether back-to-back or spaced out over time."
+    },
+    {
+      "id": 34,
+      "question": "Can I get tattooed if I am under the age of 18?",
+      "answer": "You may not get tattooed while under the age of 18 in any province that Ruby works in. A parent may not give permission for a minor to receive a tattoo. A minor may only be tattooed under the recommendation of a medical doctor to address a specific physical medical condition; doctors may not approve purely artistic tattoos for minors."
+    },
+    {
+      "id": 35,
+      "question": "Does getting tattooed hurt?",
+      "answer": "In a word, yes, but it varies greatly between different people and locations on the body. Every individual is different and there is no way to predict how getting a certain tattoo will feel to you. Being well rested and well fed, as well as going into the tattoo with a calm, positive state of mind can be very helpful. Ruby is here for you and will do everything she can to make the process as comfortable as possible, please do not hesitate to let her know if you ever need anything.\n\nFor those who know they are extra sensitive, ask us about booking multiple short sessions to complete the tattoo rather than one or two long ones. We can also advise on specialized Zensa numbing cream if this is something you are interested in trying. Not only is Zensa fully vegan and cruelty-free, it also has 5% Lidocaine and does not affect skin texture or ink settling. Make sure to follow the instructions for how to apply it."
+    },
+    {
+      "id": 36,
+      "question": "What if getting tattooed hurts too much for me to finish?",
+      "answer": "As far as numbing agents go, I am also part of the club where they don't work that well on me, however the brand that I use updated the formula early last year and typically works better than most others on the market. I had it used on a new tattoo I received about a month ago and it lasted quite a bit longer than I remember it doing so previously. The only thing with this brand is that it only works on broken skin, so the outlines would need to be completed before it can be applied.\n\nThat being said I am very light handed and I can be quite chatty (especially when necessary to be a distraction 😄), so getting through a difficult spot will hopefully be a bit less awful than anticipated. But most importantly, I never want anyone to feel like they have to continue if they don't feel up to it. So if at any point you feel that you have reached your threshold, I am more than happy to stop and have you come back once it's healed."
+    },
+    {
+      "id": 37,
+      "question": "What if I am allergic to latex?",
+      "answer": "Not a problem! Ruby uses nitrile gloves which are latex free."
+    },
+    {
+      "id": 38,
+      "question": "Are your supplies really vegan?",
+      "answer": "Yes, all products that Ruby uses on your skin during your tattoo have been confirmed by each company as Vegan. As you may or may not know, some tattoo inks contain animal-based glycerine, and some black tattoo inks are still made with bone char. Below is a list of inks and all other products Ruby uses:\n\nTattoo Ink:\nEternal Tattoo Ink (confirmed via their website)\nDynamic Tattoo Ink (confirmed via email)\n\nOther Products:\nSecondSkin Tattoo Salve (confirmed via their website)\nSecondSkin Aftercare Bandages (confirmed via email)\nStencil Stuff Stencil Adhesive (confirmed via their website)\nDr. Bronner's Hemp Baby Soap (confirmed via their website)\nSpirit Stencil Transfer Paper (confirmed via website)"
+    },
+    {
+      "id": 39,
+      "question": "Are you coming to my city any time soon?",
+      "answer": "Possibly! Ruby is planning on attending several conventions and cities in the next few years. For an early look at which conventions she already plans on attending, please see her Travel Dates Page. All event/travel plans will be announced on her Instagram as soon as they have been finalized so make sure to turn on post notifications so that you can be first to know when she makes the announcement. If you are interested in having Ruby come to your city, please submit a General Inquiry and we will look into adding your city to the list!"
+    },
+    {
+      "id": 40,
+      "question": "Do you have prints or other artwork for sale?",
+      "answer": "All items for sale are available in Ruby's online shop."
+    },
+    {
+      "id": 41,
+      "question": "Do you do commissions for non-tattoo artwork?",
+      "answer": "We are sorry, but Ruby is not currently doing art commissions. If you are interested in finding out when she will open commissions again, please join her mailing list here."
+    },
+    {
+      "id": 42,
+      "question": "Can you cover up scars with tattoos?",
+      "answer": "Yes, most scars can be covered up with tattoos, though the success depends on several factors including the scar's age, depth, and texture. Scar tattoo artists such as Ruby specialize in working with different types of scar tissue and can assess whether your scar is suitable for tattooing. While some scars may require multiple sessions or special techniques, experienced artists can often achieve remarkable results in concealing or incorporating the scar into the design."
+    },
+    {
+      "id": 43,
+      "question": "Is tattooing over scars painful?",
+      "answer": "Tattooing over scars typically involves a different sensation than tattooing regular skin, but the level of discomfort varies greatly depending on the scar's age, type, and location. While scar tissue can be more sensitive in some cases, many clients report that it's actually less painful than tattooing normal skin because scar tissue often has reduced nerve endings. However, each person's experience is unique, and a skilled scar cover-up tattoo artist will work with you to ensure your comfort throughout the process."
+    },
+    {
+      "id": 44,
+      "question": "What happens if you tattoo over a scar?",
+      "answer": "The scar cover-up tattoo process begins with a detailed consultation where your tattoo artist specializing in scar cover-ups will examine your scar and discuss design options. During the tattoo session, the artist will use specialized techniques developed specifically for scar tissue, which often requires different needle depths and angles than regular tattooing. They may need to work more slowly and carefully around the scar tissue, and might use specific color combinations to ensure the best coverage. Some scars may require multiple sessions to achieve optimal results, especially for larger or more complex cover-ups."
+    },
+    {
+      "id": 45,
+      "question": "Can you tattoo over old stretch marks?",
+      "answer": "Yes, stretch marks can be effectively covered with tattoos, though they require specific techniques different from other scar cover-ups. Since stretch marks are a type of scarring that typically appears in patterns, tattoo designs can be strategically planned to work with these patterns rather than against them. The best tattoo designs for covering stretch marks often include natural elements like flowers or abstract patterns that can follow the natural flow of the stretch marks. The success of tattooing over stretch marks depends on their age, color, and depth, with older, silver-white stretch marks typically being easier to work with than newer, red ones."
+    },
+    {
+      "id": 46,
+      "question": "How do I find a tattoo artist who specializes in scar cover-ups?",
+      "answer": "Finding the right scar cover up tattoo artist requires research and patience. Start by searching specifically for \"scar tattoo artists\" or \"tattoo artists specializing in scar cover ups\" in your area. Look for artists who have portfolios featuring before-and-after photos of scar cover-up work. Many specialists maintain online galleries of their scar cover-up tattoos and may have specific experience with different types of scars. During consultations, don't hesitate to ask about their experience with scar tissue, their specific techniques, and to see examples of healed work. The best artists will be transparent about what results you can realistically expect and will take time to understand your goals."
+    },
+    {
+      "id": 47,
+      "question": "How long do I need wait to cover up a scar with a tattoo?",
+      "answer": "A scar needs to be fully healed before it can be tattooed over, which typically takes at least one year from the time of injury or surgery. During this period, the scar should complete its maturation process - becoming flat, pale, and stable in texture. Signs that your scar is ready include: no changes in color for several months, no tenderness or sensitivity, and a stable, smooth texture. Attempting to tattoo over an unhealed scar can lead to complications and poor results, so patience during the healing process is crucial."
+    },
+    {
+      "id": 48,
+      "question": "What is the difference between scar camouflage and scar cover-up tattoos?",
+      "answer": "Scar camouflage and scar cover-up tattoos are two distinct approaches to making scars less visible. Scar camouflage is a cosmetic tattooing technique that matches the color of your natural skin tone to help the scar blend in, while scar tattoos are decorative pieces of artwork that cover the scar with a design. A scar cover-up tattoo transforms the area into an intentional piece of art, whereas camouflage aims to make the scar appear as close to your natural skin as possible."
+    },
+    {
+      "id": 49,
+      "question": "Can I cover my self-harm scars with a tattoo?",
+      "answer": "Covering self-harm scars with tattoos is a deeply personal decision that requires both physical and emotional readiness. From a technical standpoint, these scars can be successfully covered by experienced scar tattoo artists who understand the unique challenges of working with this type of scar tissue. The healing journey is different for everyone, so it's important to wait until you feel emotionally ready and your scars are fully healed - typically at least one year old. Many tattoo artists who specialize in covering self-harm scars like Ruby create a safe, understanding environment and can help design meaningful artwork that represents healing and growth."
+    },
+    {
+      "id": 50,
+      "question": "What tattoo should I get to cover scars?",
+      "answer": "Choosing the right design for a scar cover-up tattoo requires careful consideration of the scar's characteristics and location. Darker, more intricate designs typically work best for hiding scars, as they draw attention to the artwork rather than the underlying tissue. Work with your scar tattoo artist to select designs that can incorporate the scar's texture naturally - for example, floral patterns can use raised scar tissue for dimension, while geometric designs can effectively camouflage irregular scar shapes. Remember that larger designs often work better than smaller ones, as they provide more coverage and allow the artist to work around the scar's unique properties."
+    },
+    {
+      "id": 51,
+      "question": "How much do scar cover-up tattoos cost?",
+      "answer": "Scar cover-up tattoos typically cost more than regular tattoos due to the specialized techniques and experience required. The price varies depending on the scar's size, complexity, and the number of sessions needed. Most scar cover up tattoo artists charge either by the hour or by the project, with rates ranging from $200-$400 per hour. Complex cover-ups might require multiple sessions and special techniques, which can increase the overall cost. It's best to schedule a consultation with a specialist to get an accurate quote for your specific situation."
+    },
+    {
+      "id": 52,
+      "question": "Can you shower with Second Skin?",
+      "answer": "Yes! The bandage is water-resistant, but avoid excessive exposure which could weaken adhesion."
+    },
+    {
+      "id": 53,
+      "question": "How long should second skin stay on?",
+      "answer": "Keep Second Skin on for 3–5 days—long enough to protect your tattoo during the most critical healing stage."
+    },
+    {
+      "id": 54,
+      "question": "Is second skin good for tattoos?",
+      "answer": "Yes, Second Skin is excellent for tattoo healing. It provides a protective barrier that helps prevent infection and promotes optimal healing conditions."
+    },
+    {
+      "id": 55,
+      "question": "When can I exercise after getting tattooed?",
+      "answer": "Wait at least two weeks before resuming intense exercise. Sweating increases infection risk and can affect healing."
+    },
+    {
+      "id": 56,
+      "question": "Can I shower with a new tattoo?",
+      "answer": "Yes, but be sure to keep showers short and avoid soaking your new tattoo. Pro Tip: Second Skin makes showering stress-free by keeping your tattoo sealed and protected."
+    },
+    {
+      "id": 57,
+      "question": "How long until I can swim?",
+      "answer": "Wait at least 4-6 weeks before swimming in any body of water, including pools and oceans."
+    },
+    {
+      "id": 58,
+      "question": "How soon after getting a tattoo can I shower?",
+      "answer": "You can shower the same day."
+    },
+    {
+      "id": 59,
+      "question": "How do I clean my new tattoo?",
+      "answer": "Gently wash your tattoo with lukewarm water and fragrance-free soap, then pat it dry with a clean paper towel."
+    }
+  ]
+}
