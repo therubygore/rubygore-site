@@ -4,9 +4,7 @@ import createMDX from '@next/mdx';
 const nextConfig: NextConfig = {
   pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
   // Disable Turbopack to avoid MDX serialization issues
-  experimental: {
-    turbo: undefined,
-  },
+  // Note: turbo config removed as it's not available in Next.js 16
 };
 
 const withMDX = createMDX({

@@ -7,13 +7,24 @@ interface TocItem {
   title: string;
 }
 
+interface TocItemInput {
+  href: string;
+  label: string;
+}
+
 interface TocLayoutProps {
   title?: string;
-  items: TocItem[];
+  items?: TocItem[];
+  tocItems?: TocItemInput[];
   children: React.ReactNode;
 }
 
-export default function TocLayout({ title = 'Table of Contents', items, children }: TocLayoutProps) {
+export default function TocLayout({ title = 'Table of Contents', items, tocItems, children }: TocLayoutProps) {
+  // Convert tocItems format (href/label) to items format (id/title)
+  const normalizedItems: TocItem[] = items || (tocItems?.map(item => ({
+    id: item.href.replace(/^#/, ''),
+    title: item.label
+  })) || []);
   const [isCollapsed, setIsCollapsed] = useState(false);
 
   useEffect(() => {
@@ -43,7 +54,7 @@ export default function TocLayout({ title = 'Table of Contents', items, children
           <nav className={`legal-nav ${isCollapsed ? 'collapsed' : ''}`} onClick={toggleCollapse}>
             <div className="text-title table-of-contents-header">{title}</div>
             <ul id="toc-links">
-              {items.map((item) => (
+              {normalizedItems.map((item) => (
                 <li key={item.id} className="toc-nav-item">
                   <a href={`#${item.id}`} className="toc-nav-link" onClick={() => {
                     if (window.innerWidth <= 1024) {

@@ -127,10 +127,14 @@
 html {
   scroll-behavior: smooth;
   overflow-x: hidden;
+  background: var(--color-white);
 }
 
 body {
   padding-top: 80px;
+  background: var(--color-white);
+  margin: 0;
+  width: 100%;
 }
 
 /* ==========================================================================
@@ -776,6 +780,7 @@ header.light-theme .dropdown-section {
   color: var(--color-white);
   padding: var(--spacing-3xl) 0 var(--spacing-2xl) 0;
   text-align: center;
+  width: 100%;
 }
 
 .hero-content {
@@ -864,6 +869,7 @@ header.light-theme .dropdown-section {
   padding: var(--spacing-3xl) 0 var(--spacing-2xl);
   background: var(--color-white);
   text-align: center;
+  width: 100%;
 }
 
 /* Generic subtitle for page heros */
@@ -894,6 +900,7 @@ header.light-theme .dropdown-section {
   padding: var(--spacing-3xl) 0 var(--spacing-2xl);
   background: var(--color-dark);
   text-align: center;
+  width: 100%;
 }
 
 .components-hero h1 {
@@ -937,6 +944,7 @@ header.light-theme .dropdown-section {
   padding: var(--spacing-3xl) 0 0 0;
   background: var(--color-dark);
   color: var(--color-white);
+  width: 100%;
 }
 
 .newsletter-content {
@@ -987,6 +995,7 @@ footer {
   padding: var(--spacing-2xl) 0 40px;
   background: var(--color-dark);
   color: var(--color-white);
+  width: 100%;
 }
 
 footer p {
@@ -1135,6 +1144,7 @@ footer .text-title {
 .products-section {
   padding: var(--spacing-3xl) 0;
   background: var(--color-white);
+  width: 100%;
 }
 
 /* Pricing */
@@ -1330,6 +1340,7 @@ footer .text-title {
 .testimonials-component {
   padding: var(--spacing-3xl) 0;
   text-align: center;
+  width: 100%;
 }
 
 .testimonials {
@@ -2358,6 +2369,7 @@ body.about-page .about-section {
   padding: var(--spacing-3xl) 20px;
   text-align: center;
   color: #000;
+  width: 100%;
 }
 
 .cta-section .container {
@@ -2470,6 +2482,7 @@ body.about-page .about-section {
 .how-to-work-section {
   background: #1a1a1a;
   padding: var(--spacing-3xl) 0;
+  width: 100%;
 }
 
 .how-to-work-content {
@@ -2631,6 +2644,7 @@ body.about-page .about-section {
   padding: 40px 0 40px 0;
   background: var(--color-dark);
   text-align: center;
+  width: 100%;
 }
 
 .logo-grid-title {
@@ -2670,6 +2684,7 @@ body.about-page .about-section {
   background: var(--color-dark);
   color: var(--color-white);
   text-align: center;
+  width: 100%;
 }
 
 .carousel {
@@ -2781,6 +2796,7 @@ body.about-page .about-section {
 .benefits-section {
   padding: var(--spacing-3xl) 0;
   background: #fff;
+  width: 100%;
 }
 
 .benefits-content {
@@ -2875,6 +2891,7 @@ body.about-page .about-section {
 .portfolio-section {
   padding: var(--spacing-3xl) 0;
   background: #1a1a1a;
+  width: 100%;
 }
 
 .portfolio-content {
@@ -2948,6 +2965,7 @@ body.about-page .about-section {
 .pricing-section {
   padding: var(--spacing-3xl) 0;
   background: #f7f5f1;
+  width: 100%;
 }
 
 .pricing-content {
