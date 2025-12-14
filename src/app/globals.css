@@ -417,6 +417,7 @@ nav {
   font-weight: 600;
   text-decoration: none;
   transition: color var(--transition-fast);
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 header .logo {
@@ -970,6 +971,7 @@ header.light-theme .dropdown-section {
   color: var(--color-white);
   font-size: 16px;
   width: 100%;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 .newsletter-btn {
@@ -985,6 +987,10 @@ footer {
   padding: var(--spacing-2xl) 0 40px;
   background: var(--color-dark);
   color: var(--color-white);
+}
+
+footer p {
+  margin-bottom: 8px;
 }
 
 footer .text-title {
@@ -1051,6 +1057,7 @@ footer .text-title {
 
 .footer-section ul {
   list-style: none;
+  padding-left: 0px;
 }
 
 .footer-section ul li {
@@ -1087,6 +1094,7 @@ footer .text-title {
 .footer-logo-link {
   color: inherit;
   text-decoration: none;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 .social-links {
@@ -1416,6 +1424,7 @@ footer .text-title {
   color: var(--color-text);
   font-size: 18px;
   margin-bottom: 24px;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 .testimonial-text .highlight {
@@ -2493,6 +2502,7 @@ body.about-page .about-section {
   font-size: 56px;
   font-weight: 400;
   line-height: 1.2;
+  margin-top: 0px;
   margin-bottom: 24px;
 }
 
