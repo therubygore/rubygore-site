@@ -153,6 +153,9 @@ export default function Header() {
             </ul>
           </div>
           <div className="header-actions">
+            <Link href="/client-login" className="nav-client-login">
+              Client Login
+            </Link>
             <Link href="/apply-now" className="btn btn--red">
               → Book Now
             </Link>
@@ -179,6 +182,9 @@ export default function Header() {
             therubygore
           </Link>
           <div className="mobile-menu-actions">
+            <Link href="/client-login" className="nav-client-login mobile" onClick={closeMobileMenu}>
+              Client Login
+            </Link>
             <Link href="/apply-now" className="btn btn--red" onClick={closeMobileMenu}>
               → Book Now
             </Link>

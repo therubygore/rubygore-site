@@ -1,0 +1,21 @@
+{
+  "clients": [
+    {
+      "email": "demo@therubygore.com",
+      "accessCode": "ruby2026",
+      "name": "Demo Client",
+      "waitlist": {
+        "position": 4,
+        "totalInQueue": 27,
+        "joinedAt": "2026-01-15",
+        "estimatedConsultWindow": "Late May – Early June 2026",
+        "lastUpdate": "Ruby reviewed your application and is excited about your floral sleeve concept. You're moving up the list — expect an email within the next few weeks to schedule a consult."
+      },
+      "booking": {
+        "calendarUrl": "https://app.acuityscheduling.com/schedule.php?owner=therubygore",
+        "nextAppointment": null
+      },
+      "references": []
+    }
+  ]
+}
